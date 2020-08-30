@@ -135,10 +135,31 @@ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7
     
 }
 
+.button{
+    color: blue;
+    padding: 16px 32px;
+    cursor: pointer;
+}
 
-
+.button1{
+    height: 50px;
+    width: 50px;
+    background-color: deepskyblue;
+    cursor: pointer;
+    text-align:center ;
     
+
+}
+
+.button2{
+    height: 50px;
+    width: 200px;
+    background-color: deepskyblue;
+    cursor: pointer;
+    text-align: center;
+
+}    
    
-    
+  
 
     
